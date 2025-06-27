@@ -14,10 +14,10 @@ I like to discover new web technologies, while also keep up with the latest tren
 Languages and frameworks I use includes: (checkout the [about](https://irsanarisandy.vercel.app/about) page of my website for more details)
 <div>
   <img height="20" src="https://www.python.org/static/favicon.ico" alt="Python" title="Python" />
-  <img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" title="JavaScript" />
-  <img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" title="TypeScript" />
+  <img height="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" title="JavaScript" />
+  <img height="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="TypeScript" title="TypeScript" />
   <img height="20" src="https://nodejs.org/static/images/favicons/favicon.png" alt="Node.js" title="Node.js" />
-  <img height="20" src="https://cdn-icons-png.flaticon.com/512/1265/1265531.png" alt="SQL" title="SQL" />
+  <img height="20" src="https://cdn-icons-png.flaticon.com/128/1265/1265531.png" alt="SQL" title="SQL" />
   <img height="20" src="https://graphql.org/img/logo.svg" alt="GraphQL" title="GraphQL" />
   <img height="20" src="https://reactjs.org/favicon.ico" alt="React" title="React" />
   <img height="20" src="https://nextjs.org/favicon.ico" alt="Next.js" title="Next.js" />
@@ -25,6 +25,7 @@ Languages and frameworks I use includes: (checkout the [about](https://irsanaris
   <img height="20" src="https://nuxt.com/icon.png" alt="Nuxt.js" title="Nuxt" />
   <img height="20" src="https://angular.io/assets/images/favicons/favicon.ico" alt="Angular" title="Angular" />
   <img height="20" src="https://git-scm.com/favicon.ico" alt="Git" title="Git" />
+  <img height="20" src="https://cdn-icons-png.flaticon.com/128/15466/15466088.png" alt="Docker" title="Docker" />
 </div>
 <br/>
 
