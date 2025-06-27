@@ -20,7 +20,7 @@ Languages and frameworks I use includes: (checkout the [about](https://irsanaris
   <img height="20" src="https://cdn-icons-png.flaticon.com/512/1265/1265531.png" alt="SQL" title="SQL" />
   <img height="20" src="https://graphql.org/img/logo.svg" alt="GraphQL" title="GraphQL" />
   <img height="20" src="https://reactjs.org/favicon.ico" alt="React" title="React" />
-  <img height="20" src="https://nextjs.org/static/favicon/favicon.ico" alt="Next.js" title="Next.js" />
+  <img height="20" src="https://nextjs.org/favicon.ico" alt="Next.js" title="Next.js" />
   <img height="20" src="https://vuejs.org/images/logo.png" alt="Vue" title="Vue" />
   <img height="20" src="https://nuxt.com/icon.png" alt="Nuxt.js" title="Nuxt" />
   <img height="20" src="https://angular.io/assets/images/favicons/favicon.ico" alt="Angular" title="Angular" />
