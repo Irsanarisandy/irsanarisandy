@@ -7,9 +7,9 @@
 </div>
 <br />
 
-I am a Fullstack Website Developer, currently working for an Australian company. I am passionate and well-organised, with high attention to detail and dedication to getting things done. I chose this career because I have a passion for learning and helping people solve real-life problems.
+I am a Fullstack Developer, currently working for an Australian company. I am passionate and well-organised, with high attention to detail and dedication to getting things done. I chose this career because I have a passion for learning and helping people solve real-life problems.
 
-I like to discover new web technologies, while also keep up with the latest trend in my career. My current [online profile](https://irsanarisandy.vercel.app/) website, for example, was created using [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/) and [TinaCMS](https://tina.io/). I am also interested in blockchain and cryptocurrency.
+I like to discover new technologies, while also keep up with the latest trend in my career. My current [online profile](https://irsanarisandy.vercel.app/) website, for example, was created using [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/) and [TinaCMS](https://tina.io/). I am also interested in blockchain and cryptocurrency.
 
 Languages and frameworks I use includes: (checkout the [about](https://irsanarisandy.vercel.app/about) page of my website for more details)
 <div>
